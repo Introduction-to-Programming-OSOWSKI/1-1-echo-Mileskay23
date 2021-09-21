@@ -1,4 +1,4 @@
 def echo(a,b):
-   return a+b
+   return a*b
 
-print("echo" *3)
+print(echo("yah", 3))
